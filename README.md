@@ -1,5 +1,5 @@
 # hello-world
 
-hi beutiful human!!
+hi beautiful human!!
 
 Divya here. 
